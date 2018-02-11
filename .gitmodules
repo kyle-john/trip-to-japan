@@ -1,0 +1,3 @@
+[submodule "gpxviewer"]
+	path = gpxviewer
+	url = https://github.com/peplin/gpxviewer.git
